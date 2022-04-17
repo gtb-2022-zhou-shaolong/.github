@@ -4,11 +4,11 @@ Hi, this is me.
 
 You see this avatar, you know it is me.
 
-<img src="assets/QQ图片20210913143418.jpg" alt="QQ图片20210913143418.jpg" width="30%" />
+<img src="assets/hdImg_cc7fe9e1350d06f25f1b0519b0003ac416324700669.jpg" alt="hdImg_cc7fe9e1350d06f25f1b0519b0003ac416324700669.jpg"/>
 
 This is me in 2021:
 
-![ffebc72ae4b00d17cb8a8d06](https://user-images.githubusercontent.com/81501760/163698578-75ccefc5-1414-488f-8ac9-2b1003f255a1.jpg)
+<img src="assets/QQ图片20210913143418.jpg" alt="QQ图片20210913143418.jpg" width="30%" />
 
 最后放一张我室友的照片，也是我大学期间学习的榜样
 
