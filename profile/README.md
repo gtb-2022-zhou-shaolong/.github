@@ -6,7 +6,11 @@ You see this avatar, you know it is me.
 
 <img src="assets/hdImg_cc7fe9e1350d06f25f1b0519b0003ac416324700669.jpg" alt="hdImg_cc7fe9e1350d06f25f1b0519b0003ac416324700669.jpg"/>
 
-This is me in 2021:
+先来一张大一第一次烫头的照片，哈哈
+
+<img src="assets/-60462941b081be9.jpg" alt="-60462941b081be9.jpg" width="30%" />
+
+This is me in 2021（p了个背景的证件照）:
 
 <img src="assets/QQ图片20210913143418.jpg" alt="QQ图片20210913143418.jpg" width="30%" />
 
